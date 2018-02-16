@@ -89,5 +89,5 @@ for branch in "$@"
         done
 fi
 
-exit0
+exit 0
 
